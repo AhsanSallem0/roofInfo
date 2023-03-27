@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\PagesController;
 
 /*
 |--------------------------------------------------------------------------
@@ -14,5 +15,33 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('home.index');
 });
+
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
+
+
+
+// pagesd link 
+Route::get('/shingles/asphalt', [PagesController::class, 'asphalt']);
+// metal oage
+Route::get('/shingles/metal', [PagesController::class, 'metal']);
+// gutter oage
+Route::get('/shingles/gutter', [PagesController::class, 'gutter']);
+
+// solor oage
+Route::get('/shingles/solor', [PagesController::class, 'solor']);
+// solor/reviews
+Route::get('/solor/reviews', [PagesController::class, 'solorReview']);
+
+///shingles
+Route::get('/shingles', [PagesController::class, 'shingles']);
+///shinglesPrice
+Route::get('/shinglesPrice', [PagesController::class, 'shinglesPrice']);
+///shinglesRating
+Route::get('/shinglesRating', [PagesController::class, 'shinglesRating']);
+///shinglesReviews
+Route::get('/shinglesReviews', [PagesController::class, 'shinglesReviews']);
