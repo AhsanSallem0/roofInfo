@@ -103,13 +103,13 @@
             <h1>Shingles and Roofing Advice</h1>
             <p>
             Roof.info reviews many types of <b><a href="{{url('/shingles')}}">roof shingles</a></b>: from popular styles such as 
-            <a href='shingles/asphalt.html'>asphalt shingles</a> and <a href='shingles/metal.html'>metal shingles</a> to 
+            <a href="{{url('/shingles/asphalt')}}">asphalt shingles</a> and <a href="{{url('/shingles/metal')}}">metal shingles</a> to 
             more specialized options such as 
-            <a href='shingles/tile.html'>tile</a>,
-            <a href='shingles/rubber.html'>rubber</a>,
-            <a href='shingles/aluminum.html'>aluminum</a>, 
-            <a href='shingles/architectural.html'>architectural</a>, and 
-            <a href='shingles/solar.html'>solar shingles</a>.
+            <a href="{{url('/shingle/tile')}}">tile</a>,
+            <a href="{{url('/shingle/rubber')}}">rubber</a>,
+            <a href="{{url('/shingle/aluminum')}}">aluminum</a>, 
+            <a href="{{url('/shingle/architectural')}}">architectural</a>, and 
+            <a href="{{url('/shingle/solar')}}">solar shingles</a>.
             </p>
             <div style="text-align:center;">
                 <div class="upperarticle">

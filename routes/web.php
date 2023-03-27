@@ -45,3 +45,17 @@ Route::get('/shinglesPrice', [PagesController::class, 'shinglesPrice']);
 Route::get('/shinglesRating', [PagesController::class, 'shinglesRating']);
 ///shinglesReviews
 Route::get('/shinglesReviews', [PagesController::class, 'shinglesReviews']);
+
+
+////shingle/tile
+Route::get('/shingle/tile', [PagesController::class, 'tile']);
+////shingle/rubber
+Route::get('/shingle/rubber', [PagesController::class, 'rubber']);
+////shingle/aluminum
+Route::get('/shingle/aluminum', [PagesController::class, 'aluminum']);
+////shingle/architectural
+Route::get('/shingle/architectural', [PagesController::class, 'architectural']);
+////shingle/sola
+Route::get('/shingle/solar', [PagesController::class, 'sola']);
+
+

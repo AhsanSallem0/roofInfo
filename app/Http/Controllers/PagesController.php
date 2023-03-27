@@ -47,9 +47,30 @@ class PagesController extends Controller
     public function shinglesReviews(){
         return view('pages.shingleReviews');
     }
-    
-    
 
+
+    // tile page
+    public function tile(){
+        return view('pages.shingleTitle');
+    }
+            // rubber page
+    public function rubber(){
+        return view('pages.shingleRubber');
+    }
+    // aluminum page
+    public function aluminum(){
+        return view('pages.shingleAluminium');
+    }
+            // architectural page
+    public function architectural(){
+        return view('pages.shingleArchitec');
+    }
+    // Reviews sola
+    public function sola(){
+        return view('pages.shingleSolor');
+    }
+
+    
 
     
 

@@ -243,18 +243,14 @@ mixpanel.init("a2b6b0d6ab2d4d2ebb3f76c99fc9971b");mixpanel.track("Visit");</scri
     <!-- footer -->
     @include('partials.footer')
     <!--contents -->
-
-    
-
     <br style="clear:both" />
-	</div>
-	</div><!--container end -->
-	<script src="ajax/libs/jquery/1/jquery.min.js"></script>
-	<script src="js/jquery.slicknav.js"></script>
-	<script type="text/javascript">
-	$(document).ready(function(){
-		$('#menu').slicknav();
-	});
-	</script>
+        </div>
+        </div><!--container end -->
+        <script src="{{asset('asset/ajax/libs/jquery/1/jquery.min.js')}}"></script>
+        <script src="{{asset('asset/js/jquery.slicknav.js')}}"></script>
+        <script type="text/javascript">
+        $(document).ready(function(){
+            $('#menu').slicknav();
+        });
+    </script>
 </html>
-
