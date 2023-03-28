@@ -249,6 +249,218 @@ class PagesController extends Controller
         return view('pages.shinglesVinyl');
     }
 
+    // arrowline
+    public function arrowline(){
+        return view('shingleTypes.arrowline');
+    }
+
+    // atas
+    public function atas(){
+        return view('shingleTypes.atas');
+    }
+
+    // atlas
+    public function atlas(){
+        return view('shingleTypes.atlas');
+    }
+
+    // berridge
+    public function berridge(){
+        return view('shingleTypes.berridge');
+    }
+
+    // bp
+    public function bp(){
+        return view('shingleTypes.bp');
+    }
+
+
+    // certainteed
+    public function certainteed(){
+        return view('shingleTypes.certainteed');
+    }
+
+
+    // certiLabel
+    public function certiLabel(){
+        return view('shingleTypes.certiLabel');
+    }
+
+
+    // classicMetalRoofing
+    public function classicMetalRoofing(){
+        return view('shingleTypes.classicMetalRoofing');
+    }
+
+
+    // customBiltMetal
+    public function customBiltMetal(){
+        return view('shingleTypes.customBiltMetal');
+    }
+
+
+    // davinciRoofscapes
+    public function davinciRoofscapes(){
+        return view('shingleTypes.davinciRoofscapes');
+    }
+
+    // decra
+    public function decra(){
+        return view('shingleTypes.decra');
+    }
+
+
+    // duraLoc
+    public function duraLoc(){
+        return view('shingleTypes.duraLoc');
+    }
+
+      // eagleRoofing
+      public function eagleRoofing(){
+        return view('shingleTypes.eagleRoofing');
+    }
+
+      // ecostar
+      public function ecostar(){
+        return view('shingleTypes.ecostar');
+    }
+
+      // elk
+      public function elk(){
+        return view('shingleTypes.elk');
+    }
+
+      // englert
+      public function englert(){
+        return view('shingleTypes.englert');
+    }
+
+      // gaf
+      public function gaf(){
+        return view('shingleTypes.gaf');
+    }
+
+      // gerard
+      public function gerard(){
+        return view('shingleTypes.gerard');
+    }
+
+      // goatLakeForest
+      public function goatLakeForest(){
+        return view('shingleTypes.goatLakeForest');
+    }
+
+      // hansonRoofTiles
+      public function hansonRoofTiles(){
+        return view('shingleTypes.hansonRoofTiles');
+    }
+
+      // iko
+      public function iko(){
+        return view('shingleTypes.iko');
+    }
+
+      // imerys
+      public function imerys(){
+        return view('shingleTypes.imerys');
+    }
+
+
+     // landmark
+     public function landmark(){
+        return view('shingleTypes.landmark');
+    }
+
+      // ludowiciRoofTiles
+      public function ludowiciRoofTiles(){
+        return view('shingleTypes.ludowiciRoofTiles');
+    }
+
+      // malarkey
+      public function malarkey(){
+        return view('shingleTypes.malarkey');
+    }
+
+      // marleyRoofing
+      public function marleyRoofing(){
+        return view('shingleTypes.marleyRoofing');
+    }
+
+      // maxitile
+      public function maxitile(){
+        return view('shingleTypes.maxitile');
+    }
+
+ 
+
+
+    // meeker
+    public function meeker(){
+        return view('shingleTypes.meeker');
+    }
+    // monierLifeTile
+    public function monierLifeTile(){
+    return view('shingleTypes.monierLifeTile');
+    }
+    // ondura
+    public function ondura(){
+    return view('shingleTypes.ondura');
+    }
+    // owensCorning
+    public function owensCorning(){
+    return view('shingleTypes.owensCorning');
+    }
+    // pabco
+    public function pabco(){
+    return view('shingleTypes.pabco');
+    }
+    // paradigm
+    public function paradigm(){
+    return view('shingleTypes.paradigm');
+    }
+    // petersenAluminum
+    public function petersenAluminum(){
+    return view('shingleTypes.petersenAluminum');
+    }
+    // pinnacle
+    public function pinnacle(){
+    return view('shingleTypes.pinnacle');
+    }
+    // royalBuildingSupplies
+    public function royalBuildingSupplies(){
+    return view('shingleTypes.royalBuildingSupplies');
+    }
+    // rubbur
+    public function rubbur(){
+    return view('shingleTypes.rubbur');
+    }
+    // tamko
+    public function tamko(){
+    return view('shingleTypes.tamko');
+    }
+    // timberline
+    public function timberline(){
+    return view('shingleTypes.timberline');
+    }
+    // uniSolar
+    public function uniSolar(){
+    return view('shingleTypes.uniSolar');
+    }
+    // vailMetalSystems
+    public function vailMetalSystems(){
+    return view('shingleTypes.vailMetalSystems');
+    }
+    // vandeHeighRaleigh
+    public function vandeHeighRaleigh(){
+    return view('shingleTypes.vandeHeighRaleigh');
+    }
+    // zappone
+    public function zappone(){
+    return view('shingleTypes.zappone');
+    }
+
+    
+
 
 
     

@@ -101,7 +101,8 @@
 <div class="body_content">
     <h1>Asphalt Shingles</h1>
     <img src="{{asset('asset/images/asphalt-shingles.jpg')}}" alt="asphalt shingles" class="imgr">
-    <p>As the choice of 4 out of 5 homeowners, asphalt shingles top the list of popular roofing materials in the United States. Besides being affordable, they are favored for a relatively long life that can range from 20 to 30 years depending on type of shingle, slope of roof, location and local weather conditions. Typically, asphalt shingles come in a single piece that has the appearance of three separate tiles. <a href="../shingles/architectural.html">Architectural shingles</a> typically cost more, but have a more interesting appearance, and are generally guaranteed for longer life. </p>
+    <p>As the choice of 4 out of 5 homeowners, asphalt shingles top the list of popular roofing materials in the United States. Besides being affordable, they are favored for a relatively long life that can range from 20 to 30 years depending on type of shingle, slope of roof, location and local weather conditions. Typically, asphalt shingles come in a single piece that has the appearance of three separate tiles. 
+		<a href="{{url('/shingles/architectural')}}">Architectural shingles</a> typically cost more, but have a more interesting appearance, and are generally guaranteed for longer life. </p>
   
     <h3>How are Asphalt Shingles made?</h3>
     <p>
@@ -150,7 +151,7 @@
     </p>
     <p>
 	The Underwriters Laboratory (UL) test specifically tests against wind and hail impact. Only on withstanding 60 miles per hour winds for two hours will shingles win the UL 
-	certification. As for <a href="../definitions/hail_ratings.html">hail ratings</a>, the shingles have to remain unscathed under a barrage of steel balls simulating hail stones. 
+	certification. As for <a href="{{url('/definitions/hail_ratings')}}">hail ratings</a>, the shingles have to remain unscathed under a barrage of steel balls simulating hail stones. 
 	Consumers can to check for the ASTM and UL labels on shingle packaging and in product brochures.
     </p>
     <p>
@@ -179,20 +180,20 @@
     </p>
     <h3>"Green" Asphalt Shingle Resources</h3>
     <ul class="simple_list">
-		<li><a href="../shingles/asphalt-shingles-get-greener.html">Asphalt Shingles get Greener</a></li>
-		<li><a href="../shingles/10-things-about-cool-roofing.html">Cool Roofing Tax Credit</a></li>
-		<li><a href="../shingles/tax-credit-qualifying-shingles.html">Shingles that Qualify for 2010 Tax Credit</a></li>
+		<li><a href="{{url('/shingles/asphalt-shingles-get-greener')}}">Asphalt Shingles get Greener</a></li>
+		<li><a href="{{url('/shingles/10-things-about-cool-roofing')}}">Cool Roofing Tax Credit</a></li>
+		<li><a href="{{url('/shingles/tax-credit-qualifying-shingles')}}">Shingles that Qualify for 2010 Tax Credit</a></li>
 	</ul>
     <h3>Popular asphalt shingle brands</h3>
     <p>
 	</p><ul>
-	    <li><a href="../shingles/brands/bp.html">BP</a></li>
-	    <li><a href="../shingles/brands/certainteed.html">CertainTeed</a></li>
-	    <li><a href="../shingles/brands/gaf.html">GAF</a></li>
-	    <li><a href="../shingles/brands/iko.html">IKO</a></li>
-	    <li><a href="../shingles/brands/owens-corning.html">Owens Corning</a></li>
-	    <li><a href="../shingles/brands/pabko.html">PABCO Roofing</a></li>
-	    <li><a href="../shingles/brands/tamko.html">Tamko</a></li>
+	    <li><a href="{{url('/shingles/brands/bp')}}">BP</a></li>
+	    <li><a href="{{url('/shingles/brands/certainteed')}}">CertainTeed</a></li>
+	    <li><a href="{{url('/shingles/brands/gaf')}}">GAF</a></li>
+	    <li><a href="{{url('/shingles/brands/iko')}}">IKO</a></li>
+	    <li><a href="{{url('/shingles/brands/owens-corning')}}">Owens Corning</a></li>
+	    <li><a href="{{url('/shingles/brands/pabko')}}">PABCO Roofing</a></li>
+	    <li><a href="{{url('/shingles/brands/tamko')}}">Tamko</a></li>
 	</ul>
     <p></p>
 

@@ -52,7 +52,7 @@ mixpanel.init("a2b6b0d6ab2d4d2ebb3f76c99fc9971b");mixpanel.track("Visit");</scri
                             <ul>
                                 <li><a href="shingles/ratings.html">Shingle Ratings</a></li>
                                 <li><a href="shingles/reviews.html">Shingle Reviews</a></li>
-                                <li><a href='shingles.html'>How to Buy Shingles</a></li>
+                                <li><a href="{{url('/shingles')}}">How to Buy Shingles</a></li>
                                 <li><a href='shingles/brands.html'>Shingle Brands</a></li>
                                 <li><a href='shingles/warranty.html'>Shingle Warranties</a></li>
                                 <li><b><a rel='nofollow' href='http://www.servicemagic.com/ext/27025619'>Free Roofing Quotes</a></b></li>

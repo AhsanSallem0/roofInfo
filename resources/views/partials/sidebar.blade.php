@@ -3,7 +3,7 @@
             <li class='barheader left_toolbar_title' id='toolbar_related_title'>
                 Roofing
                 <ul id='toolbar_resources'>
-                <li><a href='shingles.html'>Buying Shingles</a></li>
+                <li><a href="{{url('/shingles')}}">Buying Shingles</a></li>
                 <li><a href='shingles/brands.html'>Shingle Brands</a></li>
                 <li><a href='shingles/warranty.html'>Shingle Warranties</a></li>
                 <li><a href='roofing-contractors.html'>Roofing Contractors</a></li>
@@ -40,7 +40,7 @@
             </li>
             <img src="{{asset('asset/images/nav/dotted_bar.jpg')}}" class='dottedbar'>
             <li class='left_toolbar_title' id="toolbar_brands_title">
-                <a href='shingles.html'>Shingle Brands</a>
+                <a href="{{url('/shingles')}}">Shingle Brands</a>
                 <ul id="toolbar_brands">
                 <li><a href='shingles/brands/arrowline.html'>Arrowline</a></li>
                 <li><a href='shingles/brands/atas.html'>ATAS</a></li>

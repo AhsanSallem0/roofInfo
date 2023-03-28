@@ -1,0 +1,36 @@
+<%attr>
+    description => 'Compare consumer satisfaction ratings for more than 20 brands of roofing shingles.',
+    title       => 'Roofing Shingle Ratings',
+    equip_type  => 'shingle',
+</%attr>
+<div class='body_content'>
+    <& /comp/sm_upper_right_live.mas &>
+    <h1>Roofing Shingle Ratings</h1>
+    <div>
+        <ul id="navlist">
+    	<li><a href="/shingles/">How to Buy Roofing Shingles</a></li>
+    	<li><a href="/shingles/pricing.html">Shingle Pricing</a></li>
+    	<li><a href="/shingles/ratings.html" id="current">Shingle Ratings</a></li>
+    	<li><a href="/shingles/reviews/">Shingle Reviews</a></li>
+        </ul>
+    </div>
+    <p>
+        When deciding which brand of shingles to install on your roof, you need a good roofer, some tools, and shingles that represent
+        a good value relative to their cost.  An important element of that value is the quality of those shingles.  
+    </p>
+    <& /comp/google_experiment_center.mas &>
+    <p>
+        Roof.info has been collecting 
+        consumer reviews of shingles since 2009.  In addition to a description of what they like and dislike about their shingles, homeowners
+        also rate their satisfaction from 5 (very satisfied) to 1 (very unsatisfied).  These ratings are presented below: the shingles with the
+        highest level of satisfaction appear first -- lower levels come later in the list.
+    </p>
+    <& /comp/consumer_ratings.mas, equip_type => 'shingle' &>
+    <p>
+        We have collected reviews on more than 30 different brands of roofing shingles. However, some of these brands have been excluded from the preceding list.
+        If we have only collected a handful of reviews, we run the risk that a single homeowner might affect the average rating too far in one direction or 
+        another. For that reason, we have only included the average rating for brands that at least 10 consumers have reviewed. However, 
+        all of our <a href='/shingles/reviews/'>shingle and roofing reviews</a> are available to the public.
+    </p>
+    <& /comp/google_exp_footer.mas &>
+</div>

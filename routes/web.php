@@ -170,4 +170,139 @@ Route::get('/shingles/steel', [PagesController::class, 'shinglesSteel']);
 // /shingles/vinyl
 Route::get('/shingles/vinyl', [PagesController::class, 'shinglesVinyl']);
 
+// /shingles/brands/arrowline
+Route::get('/shingles/brands/arrowline', [PagesController::class, 'arrowline']);
+
+// /shingles/brands/atas
+Route::get('/shingles/brands/atas', [PagesController::class, 'atas']);
+
+
+// /shingles/brands/atlas
+Route::get('/shingles/brands/atlas', [PagesController::class, 'atlas']);
+
+
+// /shingles/brands/berridge
+Route::get('/shingles/brands/berridge', [PagesController::class, 'berridge']);
+
+
+// /shingles/brands/bp
+Route::get('/shingles/brands/bp', [PagesController::class, 'bp']);
+
+// /shingles/brands/certainteed
+Route::get('/shingles/brands/certainteed', [PagesController::class, 'certainteed']);
+
+// /shingles/brands/certi-label
+Route::get('/shingles/brands/certi-label', [PagesController::class, 'certiLabel']);
+
+// /shingles/brands/classic-metal-roofing
+Route::get('/shingles/brands/classic-metal-roofing', [PagesController::class, 'classicMetalRoofing']);
+
+// /shingles/brands/custom-bilt-metal
+Route::get('/shingles/brands/custom-bilt-metal', [PagesController::class, 'customBiltMetal']);
+
+// /shingles/brands/davinci-roofscapesbp
+Route::get('/shingles/brands/davinci-roofscapes', [PagesController::class, 'davinciRoofscapes']);
+
+
+
+// /shingles/brands/decra
+Route::get('/shingles/brands/decra', [PagesController::class, 'decra']);
+
+// /shingles/brands/dura-loc
+Route::get('/shingles/brands/dura-loc', [PagesController::class, 'duraLoc']);
+
+
+
+// /shingles/brands/eagle-roofing
+Route::get('/shingles/brands/eagle-roofing', [PagesController::class, 'eagleRoofing']);
+
+// /shingles/brands/ecostar
+Route::get('/shingles/brands/ecostar', [PagesController::class, 'ecostar']);
+
+// /shingles/brands/elk
+Route::get('/shingles/brands/elk', [PagesController::class, 'elk']);
+
+// /shingles/brands/englert
+Route::get('/shingles/brands/englert', [PagesController::class, 'englert']);
+
+// /shingles/brands/gaf
+Route::get('/shingles/brands/gaf', [PagesController::class, 'gaf']);
+
+
+
+// /shingles/brands/gerard
+Route::get('/shingles/brands/gerard', [PagesController::class, 'gerard']);
+
+// /shingles/brands/goat-lake-forest.
+Route::get('/shingles/brands/goat-lake-forest', [PagesController::class, 'goatLakeForest']);
+
+// /shingles/brands/hanson-roof-tiles
+Route::get('/shingles/brands/hanson-roof-tiles', [PagesController::class, 'hansonRoofTiles']);
+
+// /shingles/brands/iko
+Route::get('/shingles/brands/iko', [PagesController::class, 'iko']);
+
+// /shingles/brands/imerys
+Route::get('/shingles/brands/imerys', [PagesController::class, 'imerys']);
+
+
+
+
+// /shingles/brands/landmark
+Route::get('/shingles/brands/landmark', [PagesController::class, 'landmark']);
+
+// /shingles/brands/ludowici-roof-tiles
+Route::get('/shingles/brands/ludowici-roof-tiles', [PagesController::class, 'ludowiciRoofTiles']);
+
+// /shingles/brands/malarkey
+Route::get('/shingles/brands/malarkey', [PagesController::class, 'malarkey']);
+
+// /shingles/brands/marley-roofing
+Route::get('/shingles/brands/marley-roofing', [PagesController::class, 'marleyRoofing']);
+
+// /shingles/brands/maxitile
+Route::get('/shingles/brands/maxitile', [PagesController::class, 'maxitile']);
+
+
+
+
+
+
+// /shingles/brands/meeker
+Route::get('/shingles/brands/meeker', [PagesController::class, 'meeker']);
+// /shingles/brands/monier-life-tile
+Route::get('/shingles/brands/monier-life-tile', [PagesController::class, 'monierLifeTile']);
+// /shingles/brands/ondura
+Route::get('/shingles/brands/ondura', [PagesController::class, 'ondura']);
+// /shingles/brands/owens-corning
+Route::get('/shingles/brands/owens-corning', [PagesController::class, 'owensCorning']);
+// /shingles/brands/pabco
+Route::get('/shingles/brands/pabco', [PagesController::class, 'pabco']);
+// /shingles/brands/paradigm
+Route::get('/shingles/brands/paradigm', [PagesController::class, 'paradigm']);
+// /shingles/brands/petersen-aluminum
+Route::get('/shingles/brands/petersen-aluminum', [PagesController::class, 'petersenAluminum']);
+// /shingles/brands/pinnacle
+Route::get('/shingles/brands/pinnacle', [PagesController::class, 'pinnacle']);
+// /shingles/brands/royal-building-supplies
+Route::get('/shingles/brands/royal-building-supplies', [PagesController::class, 'royalBuildingSupplies']);
+// /shingles/brands/rubbur
+Route::get('/shingles/brands/rubbur', [PagesController::class, 'rubbur']);
+// /shingles/brands/tamko
+Route::get('/shingles/brands/tamko', [PagesController::class, 'tamko']);
+// /shingles/brands/timberline
+Route::get('/shingles/brands/timberline', [PagesController::class, 'timberline']);
+// /shingles/brands/uni-solar
+Route::get('/shingles/brands/uni-solar', [PagesController::class, 'uniSolar']);
+// /shingles/brands/vail-metal-systems
+Route::get('/shingles/brands/vail-metal-systems', [PagesController::class, 'vailMetalSystems']);
+// /shingles/brands/vande-heigh-raleigh
+Route::get('/shingles/brands/vande-heigh-raleigh', [PagesController::class, 'vandeHeighRaleigh']);
+// /shingles/brands/zappone
+Route::get('/shingles/brands/zappone', [PagesController::class, 'zappone']);
+
+
+
+
+
 
