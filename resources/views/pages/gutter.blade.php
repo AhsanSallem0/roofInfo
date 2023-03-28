@@ -81,14 +81,7 @@
 	must be able to flow freely through them.  Any material that blocks or slows the flow of water through gutters 
 	defeats their purpose. Therefore, gutter guards can be very useful. 
     </p>
-    <div class="topleftarticle">
-<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Roof Large Rectangle -->
-<ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-9300874048195348" data-ad-slot="6517631847"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div>
+
     <h3>Who needs gutter guards?</h3>
     <p>
 	Consider the following issues when deciding if your house will benefit from gutter guards. 

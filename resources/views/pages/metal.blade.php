@@ -105,14 +105,7 @@
 	Metal shingles have come a long way from their practical beginnings as fuss-free roofing for industrial and agricultural structures. They now blend the aesthetics of 
 	conventional Spanish and Victorian tile designs with modern utilitarian aspects that give value for the money and last a life-time with minimal maintenance.
     </p>
-	<div class="topleftarticle">
-<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Roof Large Rectangle -->
-<ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-9300874048195348" data-ad-slot="6517631847"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div>
+
     <p>
 	Metal shingles are manufactured from steel or aluminium and pressed into typical shapes that resemble traditional shingles of many kinds. The metal is textured, 
 	layered, and sometimes given stone topcoats to disguise the tell-tale metallic sheen.  Though they are available in single pieces similar to conventional slate tiles, 

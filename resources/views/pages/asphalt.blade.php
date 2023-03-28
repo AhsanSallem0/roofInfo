@@ -102,14 +102,7 @@
     <h1>Asphalt Shingles</h1>
     <img src="{{asset('asset/images/asphalt-shingles.jpg')}}" alt="asphalt shingles" class="imgr">
     <p>As the choice of 4 out of 5 homeowners, asphalt shingles top the list of popular roofing materials in the United States. Besides being affordable, they are favored for a relatively long life that can range from 20 to 30 years depending on type of shingle, slope of roof, location and local weather conditions. Typically, asphalt shingles come in a single piece that has the appearance of three separate tiles. <a href="../shingles/architectural.html">Architectural shingles</a> typically cost more, but have a more interesting appearance, and are generally guaranteed for longer life. </p>
-    <div class="topleftarticle">
-<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Roof Large Rectangle -->
-<ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-9300874048195348" data-ad-slot="6517631847"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div>
+  
     <h3>How are Asphalt Shingles made?</h3>
     <p>
 	Asphalt shingles have been around since the 1800s and came about as a by product of the tar industry. They used to be made of asphalt embedded in cotton or wool felt, 
