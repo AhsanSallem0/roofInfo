@@ -127,7 +127,7 @@
     <h3>Common problems with Tile Shingles</h3>
     <p>
 	Tile roofs are long-lasting, fire resistant and great for insulating.  They are however much more expensive than 
-	<a href="/shingles/asphalt.html">standard asphalt shingles</a> (at least up to 3 times the cost).  Tile roofs, especially 
+	<a href="{{url('/shingles/asphalt')}}">standard asphalt shingles</a> (at least up to 3 times the cost).  Tile roofs, especially 
 	the clay tiles are best suited for hot, dry climates.  They aren't always appropriate for cold, wet climates because they 
 	can crack from severe cold or frost and allow water to seep through.  These shingles also must be expertly applied.  
 	Professional installation is required.  If installed incorrectly, the tiles might not be seated well and again, could 
@@ -143,7 +143,7 @@
 
     <h3>Tile Shingle Ratings</h3>
     <p>
-	Tile shingles carry a Class A <a href="/definitions/fire_ratings.html">fire rating</a>, which indicate how well the shingles 
+	Tile shingles carry a Class A <a href="{{url('/definitions/fire_ratings')}}">fire rating</a>, which indicate how well the shingles 
 	will resist an external fire. (Class A 
 	provides the greatest fire resistance.) 
     </p>
@@ -156,11 +156,11 @@
     </p>
     <h3>Popular Tile shingle brands</h3>
     <ul>
-	<li><a href="/shingles/brands/iko.html">IKO</a></li>
-	<li><a href="/shingles/brands/ludowici-roof-tiles.html">Ludowici</a></li>
-	<li><a href="/shingles/brands/monier-life-tile.html">MonierLifeTile</a></li>
-	<li><a href="/shingles/brands/tamko.html">Tamko</a></li>
-	<li><a href="/shingles/brands/vande-heigh-raleigh.html">Vande Hey Raleigh</a></li>
+	<li><a href="{{url('/shingles/brands/iko')}}">IKO</a></li>
+	<li><a href="{{url('/shingles/brands/ludowici-roof-tiles')}}">Ludowici</a></li>
+	<li><a href="{{url('/shingles/brands/monier-life-tile')}}">MonierLifeTile</a></li>
+	<li><a href="{{url('/shingles/brands/tamko')}}">Tamko</a></li>
+	<li><a href="{{url('/shingles/brands/vande-heigh-raleigh')}}">Vande Hey Raleigh</a></li>
     </ul>
     <div style="width:100%;text-align:center;">
 <script id="mNCC" language="javascript">

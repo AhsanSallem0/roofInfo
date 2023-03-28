@@ -459,8 +459,35 @@ class PagesController extends Controller
     return view('shingleTypes.zappone');
     }
 
-    
 
+
+        // asphaltshinglesgetgreener
+        public function asphaltshinglesgetgreener(){
+            return view('pages.asphaltshinglesgetgreener');
+        }
+        // 10thingsaboutcoolroofing
+        public function thingsaboutcoolroofing(){
+            return view('pages.thingsaboutcoolroofing');
+        }
+        // taxcreditqualifyingshingles
+        public function taxcreditqualifyingshingles(){
+            return view('pages.taxcreditqualifyingshingles');
+        }
+    // contact
+    public function contact(){
+        return view('pages.contact');
+    }
+
+
+    //submitbusiness
+    public function submitbusiness(){
+        return view('pages.submitbusiness');
+    }
+
+    //shinglesmadefromrecyledtires
+    public function shinglesmadefromrecyledtires(){
+        return view('pages.shinglesmadefromrecyledtires');
+    }
 
 
     

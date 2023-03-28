@@ -302,7 +302,18 @@ Route::get('/shingles/brands/vande-heigh-raleigh', [PagesController::class, 'van
 Route::get('/shingles/brands/zappone', [PagesController::class, 'zappone']);
 
 
+// /shingles/asphalt-shingles-get-greener
+Route::get('/shingles/asphalt-shingles-get-greener', [PagesController::class, 'asphaltshinglesgetgreener']);
+// /shingles/10-things-about-cool-roofing
+Route::get('/shingles/10-things-about-cool-roofing', [PagesController::class, 'thingsaboutcoolroofing']);
+// /shingles/tax-credit-qualifying-shingles
+Route::get('/shingles/tax-credit-qualifying-shingles', [PagesController::class, 'taxcreditqualifyingshingles']);
 
+// /contact
+Route::get('/contact', [PagesController::class, 'contact']);
 
+// submit-business
+Route::get('/submit-business', [PagesController::class, 'submitbusiness']);
 
-
+// /shingles/shingles-made-from-recyled-tires
+Route::get('/shingles/shingles-made-from-recyled-tires', [PagesController::class, 'shinglesmadefromrecyledtires']);

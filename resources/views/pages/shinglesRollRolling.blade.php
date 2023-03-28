@@ -125,10 +125,10 @@
     <h3>Popular Roll Roofing Brands</h3>
     <p>
 	</p><ul>
-	  <li><a href="/shingles/brands/owens-corning.html">Owens Corning</a></li>
-	  <li><a href="/shingles/brands/certainteed.html">CertainTeed</a></li>
-	  <li><a href="/shingles/brands/tamko.html">Tamko</a></li>
-	  <li><a href="/shingles/brands/atlas.html">Atlas</a></li>
+	  <li><a href="{{url('/shingles/brands/owens-corning')}}">Owens Corning</a></li>
+	  <li><a href="{{url('/shingles/brands/certainteed')}}">CertainTeed</a></li>
+	  <li><a href="{{url('/shingles/brands/tamko')}}">Tamko</a></li>
+	  <li><a href="{{url('/shingles/brands/atlas')}}">Atlas</a></li>
 	  <li>Warrior Roofing</li>
 	</ul>
     <p></p>

@@ -150,15 +150,15 @@
     <h3>Popular Cedar shingle brands</h3>
     <ul>
 	<li>Bartica</li>
-	<li><a href="/shingles/brands/certi-label.html">Certi-Lable</a></li>
-	<li><a href="/shingles/brands/davinci-roofscapes.html">DaVinci Roofscapes</a></li>
-	<li><a href="/shingles/brands/ecostar.html">EcoStar</a></li>
-	<li><a href="/shingles/brands/goat-lake-forest.html">Goat Lake</a></li>
-	<li><a href="/shingles/brands/landmark.html">Landmark</a></li>
-	<li><a href="/shingles/brands/meeker.html">Meeker</a></li>
-	<li><a href="/shingles/brands/pinnacle.html">Pinnacle</a></li>
-	<li><a href="/shingles/brands/rubbur.html">RuBBur</a></li>
-	<li><a href="/shingles/brands/timberline.html">Timberline</a></li>
+	<li><a href="{{url('/shingles/brands/certi-label')}}">Certi-Lable</a></li>
+	<li><a href="{{url('/shingles/brands/davinci-roofscapes')}}">DaVinci Roofscapes</a></li>
+	<li><a href="{{url('/shingles/brands/ecostar')}}">EcoStar</a></li>
+	<li><a href="{{url('/shingles/brands/goat-lake-forest')}}">Goat Lake</a></li>
+	<li><a href="{{url('/shingles/brands/landmark')}}">Landmark</a></li>
+	<li><a href="{{url('/shingles/brands/meeker')}}">Meeker</a></li>
+	<li><a href="{{url('/shingles/brands/pinnacle')}}">Pinnacle</a></li>
+	<li><a href="{{url('/shingles/brands/rubbur')}}">RuBBur</a></li>
+	<li><a href="{{url('/shingles/brands/timberline')}}">Timberline</a></li>
     </ul>
     <div style="width:100%;text-align:center;">
 <script id="mNCC" language="javascript">

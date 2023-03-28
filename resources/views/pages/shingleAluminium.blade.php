@@ -129,7 +129,7 @@
     <h3>Common problems with Aluminum Shingles</h3>
     <p>
 	Aluminum roofs are long-lasting, fire resistant and great for insulating.  They are however much more expensive than 
-	<a href="/shingles/asphalt.html">standard asphalt shingles</a>.  
+	<a href="{{url('/shingles/asphalt')}}">standard asphalt shingles</a>.  
 	Aluminum roofing materials will be at least twice as expensive as asphalt shingles, maybe even more.  On the 
 	plus side, they can be applied directly over old shingles, which lowers the cost of re-roofing.
     </p>
@@ -145,7 +145,7 @@
 
     <h3>Aluminum Shingle Ratings</h3>
     <p>
-	Aluminum shingles carry a Class A <a href="/definitions/fire_ratings.html">fire rating</a>, which indicates how well the 
+	Aluminum shingles carry a Class A <a href="{{url('/definitions/fire_ratings')}}">fire rating</a>, which indicates how well the 
 	shingles will resist an external fire. (Class A provides the greatest fire resistance.) 
     </p>
     <p>
@@ -155,16 +155,16 @@
 	Aluminum shingles are rated to withstand a 110 mile-per-hour wind-driven rain without leaking.
     </p>
     <p>
-	Aluminum shingles will withstand hail without cracking, (although the <a href="/definitions/hail_ratings.html">
-	hail ratings</a> that are often quoted for <a href="/shingles/metal.html">metal shingles</a> do not test for permanent denting.)
+	Aluminum shingles will withstand hail without cracking, (although the <a href="{{url('/definitions/hail_ratings')}}">
+	hail ratings</a> that are often quoted for <a href="{{url('/shingles/metal')}}">metal shingles</a> do not test for permanent denting.)
     </p>
     <h3>Popular Aluminum shingle brands</h3>
     <ul>
-	<li><a href="/shingles/brands/atas.html">ATAS International</a></li>
-	<li><a href="/shingles/brands/classic-metal-roofing.html">Classic Metal Roofing</a></li>
-	<li><a href="/shingles/brands/custom-bilt-metal.html">Custom-Bilt</a></li>
-	<li><a href="/shingles/brands/petersen-aluminum.html">Petersen Aluminum Clad</a></li>
-	<li><a href="/shingles/brands/zappone.html">Zappone</a></li>
+	<li><a href="{{url('/shingles/brands/atas')}}">ATAS International</a></li>
+	<li><a href="{{url('/shingles/brands/classic-metal-roofing')}}">Classic Metal Roofing</a></li>
+	<li><a href="{{url('/shingles/brands/custom-bilt-metal')}}">Custom-Bilt</a></li>
+	<li><a href="{{url('/shingles/brands/petersen-aluminum')}}">Petersen Aluminum Clad</a></li>
+	<li><a href="{{url('/shingles/brands/zappone')}}">Zappone</a></li>
     </ul>
     <div style="width:100%;text-align:center;">
 <script id="mNCC" language="javascript">

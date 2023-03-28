@@ -152,7 +152,7 @@
 
     <h3>Steel Shingle Ratings</h3>
     <p>
-	Steel shingles carry an A <a href="/definitions/fire_ratings.html">fire rating</a>, which indicate how well the shingles will 
+	Steel shingles carry an A <a href="{{url('/definitions/fire_ratings')}}">fire rating</a>, which indicate how well the shingles will 
 	resist an external fire. (Class A provides 
 	the greatest fire resistance.) 
     </p>
@@ -160,14 +160,14 @@
 	Steel shingles carry a "wind resistance" rating up to 120 mph.
     </p>
     <p>
-	Steel shingles are <a href="/definitions/hail_ratings.html">rated</a> to withstand up to a 2.5 inch hail stone without severe damage.
+	Steel shingles are <a href="{{url('/definitions/hail_ratings')}}">rated</a> to withstand up to a 2.5 inch hail stone without severe damage.
     </p>
     <h3>Popular Steel shingle brands</h3>
     <ul>
-	<li><a href="/shingles/brands/custom-bilt-metal.html">Custom-Bilt</a></li>
-	<li><a href="/shingles/brands/decra.html">Decra</a></li>
-	<li><a href="/shingles/brands/gerard.html">Gerard</a></li>
-	<li><a href="/shingles/brands/vail-metal-systems.html">Vail</a></li>
+	<li><a href="{{url('/shingles/brands/custom-bilt-metal')}}">Custom-Bilt</a></li>
+	<li><a href="{{url('/shingles/brands/decra')}}">Decra</a></li>
+	<li><a href="{{url('/shingles/brands/gerard')}}">Gerard</a></li>
+	<li><a href="{{url('/shingles/brands/vail-metal-systems')}}">Vail</a></li>
     </ul>
     <div style="width:100%;text-align:center;">
 <script id="mNCC" language="javascript">

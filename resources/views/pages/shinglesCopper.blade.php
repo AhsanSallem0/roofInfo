@@ -132,15 +132,15 @@
     <h3>Copper Shingle Ratings</h3>
     <p>
 	Copper shingles can withstand wind speeds of 110 mph, as well as rain driven at that speed.  They have passed tests for 
-	<a href="/definitions/fire_ratings.html">fire ratings</a> 
+	<a href="{{url('/definitions/fire_ratings')}}">fire ratings</a> 
 	A, B, and C. They can also withstand the weight of heavy snowfalls, and are algae resistant.   
     </p>
     <h3>Popular Copper shingle brands</h3>
     <ul>
-	<li><a href="/shingles/brands/custom-bilt-metal.html">Custom-Bilt</a></li>
-	<li><a href="/shingles/brands/paradigm.html">Paradigm Shingles</a></li>
-	<li><a href="/shingles/brands/vail-metal-systems.html">Vail</a></li>
-	<li><a href="/shingles/brands/zappone.html">Zappone</a></li>
+	<li><a href="{{url('/shingles/brands/custom-bilt-metal')}}">Custom-Bilt</a></li>
+	<li><a href="{{url('/shingles/brands/paradigm')}}">Paradigm Shingles</a></li>
+	<li><a href="{{url('/shingles/brands/vail-metal-systems')}}">Vail</a></li>
+	<li><a href="{{url('/shingles/brands/zappone')}}">Zappone</a></li>
     </ul>
     <div style="width:100%;text-align:center;">
 <script id="mNCC" language="javascript">

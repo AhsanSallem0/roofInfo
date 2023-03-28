@@ -108,7 +108,7 @@
  
     <h3>How are Architectural Shingles made?</h3>
     <p>
-	They are made using a heavier mat base than a standard <a href="/shingles/asphalt.html">asphalt</a> shingle. The mat base is made from fiberglass or organic materials, with 
+	They are made using a heavier mat base than a standard <a href="{{url('/shingles/asphalt')}}">asphalt</a> shingle. The mat base is made from fiberglass or organic materials, with 
 	some asphalt added. The back of the shingles are coated with a special material and granules are added to the top layer. 
     </p>
     <h3>How long do Architectural shingles last?</h3>
@@ -134,14 +134,14 @@
     </p>
     <h3>Popular Architectural shingle brands</h3>
     <ul>
-        <li><a href="/shingles/brands/atlas.html">Atlas</a></li>
-        <li><a href="/shingles/brands/certainteed.html">CertainTeed</a></li>
-        <li><a href="/shingles/brands/decra.html">Decra</a></li>
-        <li><a href="/shingles/brands/elk.html">Elk</a></li>
-        <li><a href="/shingles/brands/iko.html">Iko</a></li>
-        <li><a href="/shingles/brands/malarkey.html">Malarkey</a></li>
-        <li><a href="/shingles/brands/owens-corning.html">Owens Corning</a></li>
-        <li><a href="/shingles/brands/tamko.html">Tamko</a></li>
+        <li><a href="{{url('/shingles/brands/atlas')}}">Atlas</a></li>
+        <li><a href="{{url('/shingles/brands/certainteed')}}">CertainTeed</a></li>
+        <li><a href="{{url('/shingles/brands/decra')}}">Decra</a></li>
+        <li><a href="{{url('/shingles/brands/elk')}}">Elk</a></li>
+        <li><a href="{{url('/shingles/brands/iko')}}">Iko</a></li>
+        <li><a href="{{url('/shingles/brands/malarkey')}}">Malarkey</a></li>
+        <li><a href="{{url('/shingles/brands/owens-corning')}}">Owens Corning</a></li>
+        <li><a href="{{url('/shingles/brands/tamko')}}">Tamko</a></li>
     </ul>
     <div style="width:100%;text-align:center;">
 <script id="mNCC" language="javascript">

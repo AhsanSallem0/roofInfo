@@ -75,7 +75,7 @@
 		<li><a href="/shingles/brands/monier-life-tile.html">Monier Life</a></li>
 		<li><a href="/shingles/brands/ondura.html">Ondura</a></li>
 		<li><a href="/shingles/brands/owens-corning.html">Owens-Corning</a></li>
-		<li><a href="/shingles/brands/pabko.html">Pabko</a></li>
+		<li><a href="/shingles/brands/pabco.html">Pabco</a></li>
 		<li><a href="/shingles/brands/paradigm.html">Paradigm</a></li>
 		<li><a href="/shingles/brands/petersen-aluminum.html">Petersen</a></li>
 		<li><a href="/shingles/brands/pinnacle.html">Pinnacle</a></li>
@@ -93,77 +93,38 @@
 </div>
 
 <!-- side bar end -->
-
-<div id="content" class="content" style="height: auto !important;">
-
-<div class="body_content" style="height: auto !important;">
-    
-    <h1>Rubber Roofing Shingles</h1>
+<div id="content" class="content">
+<div class="body_content">
+	
+    <h1>Shingles Made from Recycled Tires</h1>
+    <img src="{{asset('asset/images/rubber-shingles.jpg')}}" alt="Rubber Shingles" class="imgr">
     <p>
-	Rubber roofing shingles are a new technology that incorporates recycled products and creates shingles that resemble more 
-	traditional shingle types (such as <a href="{{url('/shingles/cedar')}}">cedar shake</a>, <a href="{{url('/shingles/tile')}}">tile</a>, 
-	and <a href="{{url('/shingles/slate')}}">slate</a>).  These rubber shingles closely 
-	resemble the "real" shingles, but are available at a fraction of the price and a fraction of the overall weight. Rubber 
-	shingles are made of recycled rubber tires, plastic bags, pvc pipe, etc.  These shingles also frequently incorporate recycled 
-	parts of other materials -- for instance, shingles made to look like cedar shakes will often include saw dust from saw mills, 
-	slate-like shingles will include actual slate dust from recycled slate shingles.
+	Reduce. Reuse. Recycle. The green mantra is on everyone's minds these days - including those in the roofing industry.  
+	Leading companies such as <a href="{{url('/shingles/brands/rubbur')}}">Rubbur Concepts</a> and 
+	<a href="{{url('/shingles/brands/ecostar')}}">EcoStar</a> have begun using post-consumer recycled tires to manufacture 
+	<a href="{{url('/shingles/')}}">roof shingles</a>.  Like all new products, there are pros and cons of using rubber shingles in place of traditional 
+	roofing material such as slate or wood.
     </p>
 
     <p>
-	Rubber shingles are a great alternative to standard roofing materials, especially on historical homes.  For home owners that 
-	want to preserve the integrity of the look of their home, rubber shingles can easily mimic the look at a fraction of the cost.  
-	They are also excellent for withstanding pests, resistant to breaking or cracking, fire resistant, providing waterproofing 
-	options for roofs, as well as providing great insulation for the home. 
-    </p>
-    <h3>How are Rubber Shingles made?</h3>
-    <p>
-	 Rubber shingles are made using <a href="{{url('/shingles/shingles-made-from-recyled-tires')}}">recycled tires</a>.  The tirewall 
-	 section is removed from the tire and the tread section is cut into 
-	 sections.  The actual tread is buffed off from the section and the rubber shingle is coated with either sawdust or slate dust.  
-	 The tread pieces are left in fairly large pieces so that the shingle benefits from the steel belting originally found in the tire.  
-	 A plastic tab is attached to the shingle to facilitate the actual nailing of the shingle to the roof. 
+	Rubber roof shingles are made from rubber powder which is ground from old tires.  In liquid form, the ground rubber 
+	is poured into molds that resemble wood and slate shingles.  As a result, the recycled shingles have a similar 
+	aesthetic to the natural ones, but are lighter, cheaper, more flexible, and more durable.  Where slate shingles 
+	can be damaged in transit or during installation, rubber shingles will not be.  The lighter rubber shingles can also 
+	save homeowners money by eliminating the need for special or reinforced roof framing.  
     </p>
     <p>
-	 Other rubber, or synthetic, shingles are made of recycled materials heated and injected into high pressure molds.  These shingles 
-	 imitate cedar shake, clay tile or slate shingles, but at only a fraction of the weight.
+	Most rubber shingles come with at least a 30 year warranty, and some manufacturers, such as EcoStar, offer a 
+	50 year or lifetime warranty.   EcoStar, who markets their shingles as a luxury product, has nine colors and six 
+	styles in their product line. 
     </p>
     <p>
-    Are you looking for reputable roofing contractors?  Roof.info has partnered with a number of companies
-    that provide free <a href="https://o1.qnsr.com/cgi/r?;n=203;c=1494823;s=16460;x=7936;f=201509021045260;u=j;z=TIMESTAMP;" rel="nofollow" target="_blank">roofing quotes</a> from pre-screened, licensed and insured <b>roofers</b>.
-    <a href="https://o1.qnsr.com/cgi/r?;n=203;c=1494823;s=16460;x=7936;f=201509021045260;u=j;z=TIMESTAMP;" rel="nofollow" target="_blank">Try it now</a>! It's quick, easy and free!
- </p>
-
-    <h3>How long do Rubber shingles last?</h3>
-    <p>
-	Rubber shingles are very sturdy, flexible and strong.  Standard warranties for the rubber shingles are at least 30 years, although 
-	some manufacturers offer a 50 year warranty or even a lifetime warranty. 
+	The biggest disadvantage to rubber shingles made from recycled tires is their smell.  Old tires smell, new tires smell, 
+	and many consumers report an unpleasant odor during the installation of rubber shingles.  They also report, however, 
+	that after few weeks, the smell dissipates.  Another disadvantage of recycled roof shingles comes from the natural 
+	flexibility that can cause some minor issues at installation; however, an experienced roofer should be able to install 
+	the recycled roof shingles without any problem. 
     </p>
-    <h3>Common problems with Rubber Shingles</h3>
-    <p>
-	Because rubber shingles are so sturdy, there are few problems with their actual shipping, use, installation, or long-term 
-	effectiveness.  However, rubber shingles are expensive, especially when compared to other low-grade shingle materials, like 
-	<a href="{{url('/shingles/asphalt')}}">asphalt</a>.  They are far more cost effective and lighter in weight than slate tiles, but 
-	they are easily at least four times the cost of asphalt shingles.  They may be more effective over the life of the home and 
-	require fewer repairs or replacements than asphalt shingles.
-    </p>
-    <h3>Rubber Shingle Ratings</h3>
-    <p>
-	Rubber shingles carry a Class A <a href="{{url('/definitions/fire_ratings')}}">fire rating</a>, which indicate how well the shingles 
-	will resist an external fire. (Class A 
-	provides the greatest fire resistance.) 
-    </p>
-    <p>
-	Rubber shingles are favored by the insurance industry.
-    <p>
-	Rubber shingles are rated to withstand an 80 mph wind.
-    </p>
-    <h3>Popular Rubber shingle brands</h3>
-    <ul>
-	<li><a href="{{url('/shingles/brands/davinci-roofscapes')}}">Da Vinci Roofscapes</a></li>
-	<li><a href="{{url('/shingles/brands/ecostar')}}">EcoStar</a></li>
-	<li><a href="{{url('/shingles/brands/royal-building-supplies')}}">Royal Building Supplies (Dura)</a></li>
-	<li><a href="{{url('/shingles/brands/rubbur')}}">RuBBuR</a></li>
-    </ul>
     <div style="width:100%;text-align:center;">
 <script id="mNCC" language="javascript">
     medianet_width = "600";
@@ -174,7 +135,5 @@
 <script src="//contextual.media.net/nmedianet.js?cid=8CU6B6W8F"></script>
 </div>
 </div>
-	
-
-	    
+	</div>
 @endsection

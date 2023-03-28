@@ -184,15 +184,15 @@
     <p>
 	</p><ul>
 	    <li>Alcoa</li>
-	    <li><a href="../shingles/brands/berridge.html">Berridge</a></li>
-	    <li><a href="../shingles/brands/decra.html">Decra</a></li>
-	    <li><a href="../shingles/brands/dura-loc.html">Dura-Loc</a></li>
-	    <li><a href="../shingles/brands/englert.html">Englert</a></li>
-	    <li><a href="../shingles/brands/gerard.html">Gerard</a></li>
+	    <li><a href="{{url('/shingles/brands/berridge')}}">Berridge</a></li>
+	    <li><a href="{{url('/shingles/brands/decra')}}">Decra</a></li>
+	    <li><a href="{{url('/shingles/brands/dura-loc')}}">Dura-Loc</a></li>
+	    <li><a href="{{url('/shingles/brands/englert')}}">Englert</a></li>
+	    <li><a href="{{url('/shingles/brands/gerard')}}">Gerard</a></li>
 	    <li>Met-Tile</li>
 	    <li>Prestige</li>
-	    <li><a href="../shingles/brands/tamko.html">Tamko</a></li>
-	    <li><a href="../shingles/brands/zappone.html">Zappone</a></li>
+	    <li><a href="{{url('/shingles/brands/tamko')}}">Tamko</a></li>
+	    <li><a href="{{url('/shingles/brands/zappone')}}">Zappone</a></li>
 	</ul>
     <p></p>
     <div style="width:100%;text-align:center;">
